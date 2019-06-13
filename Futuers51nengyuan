@@ -1,44 +1,45 @@
+
 {
-  "code" : 20000,
-  "data" : {
-    "fields" : [
-      "prod_code",
-      "prod_name",
-      "high_px",
-      "low_px",
-      "last_px",
-      "px_change_rate",
-      "px_change"
-    ],
-    "snapshot" : {
-      "UKOIL.OTC" : [
-        "UKOIL.OTC",
-        "布伦特原油",
-        3324.32,
-        3322.32,
-        3336.12,
-        -0.04,
-        -45.05
-      ],
-      "USCL.OTC" : [
-        "USCL.OTC",
-        "WTI原油",
-        3785.26,
-        3776.3,
-        3783.13,
-        +0.26,
-        +16.05
-      ],
-      "USNG.OTC" : [
-        "USNG.OTC",
-        "天然气",
-        302.66,
-        302.43,
-        301.65,
-        +0.64,
-        +6.08
-      ]
-    }
-  },
-  "message" : "OK"
+    "code" : 20000,
+    "data" : {
+        "fields" : [
+                    "prod_code",
+                    "prod_name",
+                    "high_px",
+                    "low_px",
+                    "last_px",
+                    "px_change_rate",
+                    "px_change"
+                    ],
+        "snapshot" : {
+            "UKOIL.OTC" : [
+                           "UKOIL.OTC",
+                           "布伦特原油",
+                           3324.32,
+                           3322.32,
+                           3336.12,
+                           -0.04,
+                           -45.05
+                           ],
+            "USCL.OTC" : [
+                          "USCL.OTC",
+                          "WTI原油",
+                          3785.26,
+                          3776.3,
+                          3783.13,
+                          0.26,
+                          16.05
+                          ],
+            "USNG.OTC" : [
+                          "USNG.OTC",
+                          "天然气",
+                          302.66,
+                          302.43,
+                          301.65,
+                          0.64,
+                          6.08
+                          ]
+        }
+    },
+    "message" : "OK"
 }
