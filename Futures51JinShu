@@ -1,62 +1,63 @@
+
 {
-  "code" : 20000,
-  "data" : {
-    "fields" : [
-      "prod_code",
-      "prod_name",
-      "high_px",
-      "low_px",
-      "last_px",
-      "px_change_rate",
-      "px_change"
-    ],
-    "snapshot" : {
-      "AGTOD.SGE" : [
-        "AGTOD.SGE",
-        "铜",
-        4624.32,
-        4622.32,
-        4636.12,
-        +0.04,
-        +6.05
-      ],
-      "AGTSOD.SGE" : [
-        "AGTSOD.SGE",
-        "螺纹钢",
-        3785.26,
-        3776.3,
-        3783.13,
-        -0.26,
-        -16.05
-      ],
-      "AUXITD.SGE" : [
-        "AUXITD.SGE",
-        "锡",
-        145302.66,
-        145302.43,
-        145301.65,
-        -0.64,
-        -60.08
-      ],
-      "LVXITD.SGE" : [
-        "LVXITD.SGE",
-        "锡",
-        14302.66,
-        14352.43,
-        14371.65,
-        +0.64,
-        +59.08
-      ],
-      "XGTD.SGE" : [
-        "XGTD.SGE",
-        "锌",
-        3570.66,
-        3571.43,
-        3572.65,
-        +0.04,
-        +2.05
-      ]
-    }
-  },
-  "message" : "OK"
+    "code" : 20000,
+    "data" : {
+        "fields" : [
+                    "prod_code",
+                    "prod_name",
+                    "high_px",
+                    "low_px",
+                    "last_px",
+                    "px_change_rate",
+                    "px_change"
+                    ],
+        "snapshot" : {
+            "AGTOD.SGE" : [
+                           "AGTOD.SGE",
+                           "铜",
+                           4624.32,
+                           4622.32,
+                           4636.12,
+                           0.04,
+                           6.05
+                           ],
+            "AGTSOD.SGE" : [
+                            "AGTSOD.SGE",
+                            "螺纹钢",
+                            3785.26,
+                            3776.3,
+                            3783.13,
+                            -0.26,
+                            -16.05
+                            ],
+            "AUXITD.SGE" : [
+                            "AUXITD.SGE",
+                            "锡",
+                            145302.66,
+                            145302.43,
+                            145301.65,
+                            -0.64,
+                            -60.08
+                            ],
+            "LVXITD.SGE" : [
+                            "LVXITD.SGE",
+                            "锡",
+                            14302.66,
+                            14352.43,
+                            14371.65,
+                            0.64,
+                            59.08
+                            ],
+            "XGTD.SGE" : [
+                          "XGTD.SGE",
+                          "锌",
+                          3570.66,
+                          3571.43,
+                          3572.65,
+                          0.04,
+                          2.05
+                          ]
+        }
+    },
+    "message" : "OK"
 }
