@@ -34,7 +34,7 @@
 			"fullSymbol": "AL1910.XSGE",
 			"mainCon": 0,
 			"contractObject": "AL"
-		}, {
+		}, { 
 			"symbol": "AL1906",
 			"exchangeCdName": "上海期货交易所",
 			"exchangeCd": "XSGE",
