@@ -1,5 +1,4 @@
- {"data" : [
-    {
+ {"data" : [{
       "headStr" : "head1",
       "imgStr" : "img1",
       "nameStr" : "盘中餐",
@@ -63,6 +62,4 @@
       "testStr" : "全部清仓了吧还是",
       "type" : 1
     }
-    
-  ]
-}
+     ]}
