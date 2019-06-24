@@ -34,15 +34,7 @@
       "timeStr" : "06-24",
       "type" : 1
     },
-    {
-      "headStr" : "head5",
-      "imgStr" : "img1",
-      "nameStr" : "等你来聊",
-      "positionType" : 1,
-      "testStr" : "回调10个点，然后继续冲击新高，不信走着看",
-      "timeStr" : "06-24",
-      "type" : 2
-    },
+ 
     {
       "headStr" : "head4",
       "imgStr" : "img2",
@@ -52,15 +44,7 @@
       "timeStr" : "06-24",
       "type" : 1
     },
-    {
-      "headStr" : "head5",
-      "imgStr" : "img2",
-      "nameStr" : "等你来聊",
-      "positionType" : 1,
-      "testStr" : "继续收割？你以为你是庄稼啊？",
-      "timeStr" : "06-24",
-      "type" : 2
-    },
+  
     {
       "headStr" : "head3",
       "imgStr" : "img1",
