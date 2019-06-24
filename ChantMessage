@@ -4,6 +4,7 @@
       "nameStr" : "盘中餐",
       "positionType" : 1,
       "testStr" : "今天这个行情是怎么了",
+      "timeStr" : "2019-06-24",
       "type" : 1
     },
     {
@@ -12,6 +13,7 @@
       "nameStr" : "小数点",
       "positionType" : 1,
       "testStr" : "冲啊，今天来了个利好消息",
+      "timeStr" : "2019-06-24",
       "type" : 1
     },
     {
@@ -28,6 +30,7 @@
       "nameStr" : "等你来聊",
       "positionType" : 1,
       "testStr" : "不说算了。大佬觉得行情怎么样。。。咋么看",
+      "timeStr" : "2019-06-24",
       "type" : 1
     },
     {
@@ -36,6 +39,7 @@
       "nameStr" : "等你来聊",
       "positionType" : 1,
       "testStr" : "回调10个点，然后继续冲击新高，不信走着看",
+      "timeStr" : "2019-06-24",
       "type" : 2
     },
     {
@@ -44,6 +48,7 @@
       "nameStr" : "买了个股",
       "positionType" : 1,
       "testStr" : "做个波段，下去了继续收割",
+      "timeStr" : "2019-06-24",
       "type" : 1
     },
     {
@@ -52,6 +57,7 @@
       "nameStr" : "等你来聊",
       "positionType" : 1,
       "testStr" : "继续收割？你以为你是庄稼啊？",
+      "timeStr" : "2019-06-24",
       "type" : 2
     },
     {
@@ -60,6 +66,7 @@
       "nameStr" : "要解盘吗",
       "positionType" : 1,
       "testStr" : "全部清仓了吧还是",
+      "timeStr" : "2019-06-24",
       "type" : 1
     }
      ]}
