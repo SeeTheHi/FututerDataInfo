@@ -38,20 +38,20 @@
     {
       "headStr" : "head4",
       "imgStr" : "img2",
-      "nameStr" : "买了个股",
+      "nameStr" : "我叫罗曼蒂",
       "positionType" : 1,
-      "testStr" : "做个波段，下去了继续收割",
-      "timeStr" : "06-24",
+      "testStr" : "我比较喜欢短线，有喜欢的可以多交流交流啊",
+      "timeStr" : "08-05",
       "type" : 1
     },
   
     {
       "headStr" : "head3",
       "imgStr" : "img1",
-      "nameStr" : "要解盘吗",
+      "nameStr" : "hold住了",
       "positionType" : 1,
-      "testStr" : "全部清仓了吧还是",
-      "timeStr" : "06-24",
+      "testStr" : "我觉得短线和长线操作上一致，但是短线上不了福布斯，还是长线稳定，收益更大",
+      "timeStr" : "08-05",
       "type" : 1
     }
      ]}
