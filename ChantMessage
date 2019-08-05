@@ -1,37 +1,37 @@
  {"data" : [{
       "headStr" : "head1",
       "imgStr" : "img1",
-      "nameStr" : "盘中餐",
+      "nameStr" : "王多余",
       "positionType" : 1,
-      "testStr" : "今天这个行情是怎么了",
-      "timeStr" : "06-24",
+      "testStr" : "这个行情我看是要变盘了，大家做好准备了吗",
+      "timeStr" : "08-05",
       "type" : 1
     },
     {
       "headStr" : "head2",
       "imgStr" : "img2",
-      "nameStr" : "小数点",
+      "nameStr" : "多啦",
       "positionType" : 1,
-      "testStr" : "冲啊，今天来了个利好消息",
-      "timeStr" : "06-24",
+      "testStr" : "我不觉得，应该还会继续冲一冲",
+      "timeStr" : "08-05",
       "type" : 1
     },
     {
       "headStr" : "head4",
       "imgStr" : "img2",
-      "nameStr" : "买了个股",
+      "nameStr" : "反复获利",
       "positionType" : 1,
-      "testStr" : "今天有什么消息了，倒是说一下啊",
-      "timeStr" : "06-24",
+      "testStr" : "是时候盯盘了，发现不对了就赶紧操作，不要犹豫。方向反了 那就等待结果时机",
+      "timeStr" : "08-05",
       "type" : 1
     },
     {
       "headStr" : "head5",
       "imgStr" : "img1",
-      "nameStr" : "等你来聊",
+      "nameStr" : "点赞狂魔",
       "positionType" : 1,
-      "testStr" : "不说算了。大佬觉得行情怎么样。。。咋么看",
-      "timeStr" : "06-24",
+      "testStr" : "那就盯着看看，如果有消息了还在这里共享一下啊，各位",
+      "timeStr" : "08-05",
       "type" : 1
     },
  
